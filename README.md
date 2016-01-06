@@ -1,2 +1,2 @@
 # InternetMonitorRaspberryPi
-Quick constantly visible way to check if the internet status
+Quick, constantly visible way to check the internet status
